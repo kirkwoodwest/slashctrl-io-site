@@ -1,0 +1,26 @@
+# /CTRL
+
+> A modular control layer for Bitwig Studio. Build dynamic behavior, not static mappings.
+
+/CTRL is a Bitwig Studio extension that lets you build custom MIDI configurations, OSC workflows, macros, and automation systems. It works with any MIDI controller and any OSC-capable device.
+
+## Key Features
+
+- **MIDI Hardware**: Multi-device routing, layered control, LED feedback, encoders, faders, and expanding driver support
+- **OSC**: Bidirectional network control with flexible routing and multi-client support
+- **Components**: Composable, modular building blocks on top of Bitwig's API — device chains, unlimited remote controls, shareable kits
+- **Commands**: Map hardware inputs to Bitwig Actions with chaining, variables, and sub-millisecond layer switching
+- **Macros**: Text-based macro language for custom automation logic — event-driven, parameterized, real-time
+- **Recall**: Capture and restore parameter states with selective restore, morphing, and triggerable snapshots
+
+## Details
+
+- Platform: Windows, macOS, Linux
+- Category: Music Production / MIDI / OSC / Bitwig Extension
+- Status: Actively in development, early access via Patreon
+- Website: https://slashctrl.io
+- Patreon: https://www.patreon.com/c/slashctrl
+
+## Who It's For
+
+Producers, performers, and sound designers who want full control over how their system behaves, evolves, and connects. Designed for builders who want to shape behavior instead of accepting defaults.

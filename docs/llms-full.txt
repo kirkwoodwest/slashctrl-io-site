@@ -1,0 +1,76 @@
+# /CTRL — A Modular Control Layer for Bitwig Studio
+
+> Build dynamic behavior, not static mappings.
+
+/CTRL is a powerful, modular Bitwig Studio extension and control system. It lets you build custom MIDI configurations, OSC workflows, macros, and automation systems that go far beyond static parameter mappings. It works with any MIDI controller and any OSC-capable device.
+
+Website: https://slashctrl.io
+Patreon (early access): https://www.patreon.com/c/slashctrl
+Platform: Windows, macOS, Linux
+Category: Music Production Software / Bitwig Extension / MIDI Controller Software / OSC
+
+## MIDI Hardware
+
+Build configurations for any MIDI controller. Combine devices into a unified, expressive control surface.
+
+- **Multi-Device**: Route multiple controllers as one. Build a unified control surface across devices.
+- **Layer System**: Build layered control setups across devices. One system, unified behavior.
+- **LED Feedback**: Full RGB control with real-time state response. Your hardware reflects Bitwig instantly.
+- **Encoders & Faders**: Support endless encoders, motorized faders, and velocity-sensitive pads.
+- **Drivers**: Expanding controller support. Built-in and community-driven.
+- **OSC Integration**: Expose every control over OSC. Visualize state and drive your system from anywhere.
+
+## OSC
+
+Control Bitwig over the network with Open Sound Control. Connect any OSC-capable device or interface.
+
+- **Network Control**: Send and receive OSC over the network. Connect tablets, phones, or custom UIs.
+- **Bidirectional**: Two-way sync between controllers and Bitwig. No stale state.
+- **Flexible Routing**: Map OSC addresses to any parameter. Define custom address patterns.
+- **Multi-Client**: Connect multiple OSC clients at once. Separate surfaces, shared system.
+
+## Components
+
+Build on Bitwig's API with modular, composable components. Combine native objects with custom modules to reach deeper layers of control. Assemble them into systems that move beyond fixed mappings.
+
+- **Composable**: Combine components into larger systems. Nest and layer without limits.
+- **Device Chains**: Navigate device chains with precision. Access parameters, remotes, and presets.
+- **Remote Controls**: Use unlimited remotes. Map beyond fixed banks and device limits.
+- **Shareable Kits**: Bundle components into .ctrl kits. Share and reuse instantly.
+
+## Commands
+
+Map hardware inputs directly to Bitwig Actions. Build dynamic behavior, not static mappings.
+
+- **Action Library**: Tap into Bitwig's full action system. Every command, ready to bind.
+- **Chaining**: One input, many actions. Build behavior, not buttons.
+- **Variables**: Drive commands with live values. React, adapt, and stay in flow.
+- **Optimized**: Swap full control layers in under a millisecond. Complex mappings, zero lag.
+
+## Macros
+
+Write custom automation logic with a text-based macro language. Dynamic, event-driven control.
+
+- **Programmable Control**: Write custom automation logic in a text-based macro language. Go beyond static mappings.
+- **Realtime Logic**: Respond to real-time input. Build dynamic, reactive behavior.
+- **Parameterized**: Pass arguments at runtime. One macro, multiple outcomes.
+- **Event-Driven**: Trigger from MIDI, OSC, or Bitwig state. React as your set evolves.
+
+## Recall
+
+Capture and restore parameter states. Morph transitions and control change over time.
+
+- **State Snapshots**: Capture complex parameter states. Save them with your project. Recall them instantly.
+- **Selective Restore**: Recall only what you need. Keep the rest untouched.
+- **Morphing**: Interpolate between states over time. Smooth, continuous transitions.
+- **Triggerable**: Recall states from any input. Integrate with layers, macros, and performance controls.
+
+## Who It's For
+
+/CTRL is designed for builders — producers, performers, and sound designers who want to design and evolve their own control systems. It assumes curiosity, patience, and a desire to shape behavior instead of accepting defaults.
+
+If you want full control over how your system behaves, evolves, and connects, /CTRL will take you there.
+
+## Status
+
+Actively in development. Early access is available via Patreon at https://www.patreon.com/c/slashctrl
